@@ -12,3 +12,6 @@ Se refiere a una operacion matematica que toma un numero entero no negativo ( n 
 
   println(factorial(5)) 
 </pre>
+
+##  El factorial de numero
+El factorial de un numero entero es el producto de todos los enteros positivos menores o iguales
